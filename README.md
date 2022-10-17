@@ -1,3 +1,6 @@
-# React test app
+### Simple employee react app
 
-Practicing React (Employees app)
+
+Functionality: add/delete employee, search, filter, mark employee for promotion.
+
+Skills: REACT / JS / HTML / CSS
