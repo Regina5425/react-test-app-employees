@@ -1,6 +1,9 @@
-# Employee app
+# Employee - приложение по персоналу
 
+Реализовано:
+- добавление/удаление сотрудника;
+- поиск сотрудника;
+- фильтрация сотрудников по параметрам;
+- метка сотрудников для премий и повышения
 
-Functionality: add/delete employee, search, filter, mark employee for promotion.
-
-Skills: REACT / JS / HTML / CSS
+Стек: React, JavaScript
