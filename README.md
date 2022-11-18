@@ -1,4 +1,4 @@
-### Simple employee react app
+# Employee app
 
 
 Functionality: add/delete employee, search, filter, mark employee for promotion.
